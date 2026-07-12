@@ -5,7 +5,7 @@
  */
 import java.util.Scanner;
 
-class Sum 
+class Sum_Of_2_Numbers 
 {
     public static void main() 
     {
