@@ -5,7 +5,7 @@
  */
 import java.util.*;
 
-class Simple_Interest 
+class Simple_Interest_Calculator 
 {
     public static void main() 
     {
