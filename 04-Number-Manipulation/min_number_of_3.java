@@ -5,7 +5,7 @@
  */
 import java.util.*;
 
-class min_num 
+class min_number_of_3
 {
     public static void main() 
     {
