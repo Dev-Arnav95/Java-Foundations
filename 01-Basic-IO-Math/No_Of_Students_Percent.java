@@ -5,7 +5,7 @@
  */
 import java.util.*;
 
-public class No_Of_Students&%
+public class No_Of_Students_Percent
 {
     public static void main() 
     {
